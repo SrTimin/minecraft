@@ -729,3 +729,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [19Dec2025 04:19:23.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MonoConNavaja_ moved too quickly! -0.9378316531443716,1.0013359791121417,10.000382222634244
 [19Dec2025 04:19:23.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5348ms or 106 ticks behind
 [19Dec2025 04:21:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diegodxdl has made the advancement [Source of Evil]
+[19Dec2025 04:22:33.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/53134, l='ServerLevel[world]', x=-140.30, y=73.75, z=-1254.41] died, message: 'Botanist was slain by Zombie'
+[19Dec2025 04:24:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diegodxdl has made the advancement [Who is Cutting Onions?]
+[19Dec2025 04:24:37.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrTimin moved wrongly!
+[19Dec2025 04:25:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrTimin has made the advancement [Walking Dead]
+[19Dec2025 04:26:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MonoConNavaja_ has made the advancement [Invitation to the Tea Party]
+[19Dec2025 04:29:49.841] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2025 04:29:49.855] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2025 04:29:56.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8880ms or 177 ticks behind
+[19Dec2025 04:29:56.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrTimin moved too quickly! 5.834032141851253,-0.17675927506424216,-8.164096799544495
+[19Dec2025 04:30:03.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrTimin has made the advancement [Fruits of the Field]
+[19Dec2025 04:30:17.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MonoConNavaja_ has made the advancement [Spooky Scary Skeleton]
+[19Dec2025 04:30:46.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrTimin lost connection: Disconnected
+[19Dec2025 04:30:46.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrTimin left the game
+[19Dec2025 04:34:34.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14668ms or 293 ticks behind
+[19Dec2025 04:36:22.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4712ms or 94 ticks behind
+[19Dec2025 04:37:43.067] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2025 04:37:43.068] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2025 04:42:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diegodxdl has made the advancement [Tools of the Trade]

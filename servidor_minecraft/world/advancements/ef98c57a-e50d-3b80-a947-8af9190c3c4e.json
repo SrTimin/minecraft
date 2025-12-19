@@ -57,9 +57,11 @@
       "minecraft:swamp": "2025-12-19 04:09:48 +0000",
       "minecraft:forest": "2025-12-18 02:48:09 +0000",
       "minecraft:lush_caves": "2025-12-19 03:56:34 +0000",
+      "minecraft:windswept_savanna": "2025-12-19 04:20:47 +0000",
       "minecraft:flower_forest": "2025-12-19 04:18:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-12-19 02:03:08 +0000",
-      "minecraft:deep_dark": "2025-12-19 02:55:42 +0000"
+      "minecraft:deep_dark": "2025-12-19 02:55:42 +0000",
+      "minecraft:plains": "2025-12-19 04:30:03 +0000"
     },
     "done": false
   },
@@ -2115,6 +2117,7 @@
       "minecraft:skeleton": "2025-12-19 02:14:03 +0000",
       "minecraft:spider": "2025-12-19 03:24:44 +0000",
       "minecraft:creeper": "2025-12-19 03:19:14 +0000",
+      "minecraft:slime": "2025-12-19 04:22:24 +0000",
       "minecraft:zombie": "2025-12-19 02:14:07 +0000",
       "minecraft:drowned": "2025-12-19 02:06:09 +0000"
     },
@@ -4545,6 +4548,18 @@
   "slashblade:arts/upperslash_jump": {
     "criteria": {
       "customtrigger": "2025-12-19 03:54:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-12-19 04:25:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-12-19 04:30:03 +0000"
     },
     "done": true
   },

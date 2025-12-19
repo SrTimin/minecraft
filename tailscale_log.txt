@@ -298,3 +298,11 @@
 2025/12/19 03:44:53 magicsock: derp-11 does not know about peer [x5GaP], removing route
 2025/12/19 03:44:58 magicsock: derp-11 does not know about peer [x5GaP], removing route
 2025/12/19 03:45:18 magicsock: disco: node [x5GaP] d:336b3031a50da5d7 now using 190.5.32.83:6221 mtu=1360 tx=41da5ccd9c21
+2025/12/19 04:45:24 magicsock: derp-11 does not know about peer [nHWe/], removing route
+2025/12/19 04:45:30 magicsock: derp-11 does not know about peer [nHWe/], removing route
+2025/12/19 04:45:36 magicsock: derp-11 does not know about peer [nHWe/], removing route
+2025/12/19 04:45:36 magicsock: derp-11 does not know about peer [x5GaP], removing route
+2025/12/19 04:45:42 magicsock: derp-11 does not know about peer [nHWe/], removing route
+2025/12/19 04:45:48 magicsock: derp-11 does not know about peer [nHWe/], removing route
+2025/12/19 04:47:02 magicsock: closing connection to derp-11 (idle), age 1h4m15s
+2025/12/19 04:47:02 magicsock: 1 active derp conns: derp-27=cr2h10m0s,wr2h8m0s
